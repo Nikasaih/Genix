@@ -2,19 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Main_Menu : MonoBehaviour
+public class Menu : MonoBehaviour
 {
     public GameObject newCanvas;
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void ChangeCanvas(GameObject newCanvas)
