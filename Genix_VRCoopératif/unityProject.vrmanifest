@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.genix_vrcoopératif.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\ProjetGenix\\genix2\\Genix\\Genix_VRCoopératif\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Genix_VRCoopératif [Testing]"
+        }
+      }
+    }
+  ]
+}
