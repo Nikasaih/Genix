@@ -1,10 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Menu : MonoBehaviour
 {
-    public GameObject newCanvas;
+    public GameObject oldCanvas;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,7 +20,7 @@ public class Menu : MonoBehaviour
 
     public void ChangeCanvas(GameObject newCanvas)
     {
-        gameObject.setActive(false);
-        newCanvas.setActive(true);
+        oldCanvas.SetActive(false);
+        newCanvas.SetActive(true);
     }
 }
