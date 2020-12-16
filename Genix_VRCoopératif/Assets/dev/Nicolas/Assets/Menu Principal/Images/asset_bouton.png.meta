@@ -1,58 +1,40 @@
 fileFormatVersion: 2
-guid: 38448bed0e5d4e246a345815875ef367
+guid: e9182919074529947ad4211bc6ddade5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -931438125895349867
-    second: btn_lancer_local
+      213: 5347691253999220250
+    second: asset_bouton_0
   - first:
-      213: -7873830058495667158
-    second: btn_lancer_ligne
+      213: 9065874410286311149
+    second: asset_bouton_1
   - first:
-      213: -7718620061449553440
-    second: btn_parametres
+      213: -3951991704252300123
+    second: asset_bouton_2
   - first:
-      213: -1819052349266426106
-    second: btn_creer_salon
+      213: 7197733699500299588
+    second: asset_bouton_3
   - first:
-      213: -2967508018990134882
-    second: btn_rejoindre_salon
+      213: 6582155395107901804
+    second: asset_bouton_4
   - first:
-      213: -4360122513647651841
-    second: btn_quitter
+      213: 5136956640937086953
+    second: asset_bouton_5
   - first:
-      213: 3337505171781156927
-    second: btn_pas_pret
+      213: 1720339301066943935
+    second: asset_bouton_6
   - first:
-      213: 30606916544903496
-    second: btn_pret
+      213: 4060377589956507505
+    second: asset_bouton_7
   - first:
-      213: 1919543977246626279
-    second: icone_geant
+      213: 4705056739566484328
+    second: asset_bouton_8
   - first:
-      213: 1356947926347697211
-    second: Boutons_9
+      213: -1787836248538621278
+    second: asset_bouton_9
   - first:
-      213: 2570987220856415577
-    second: Boutons_10
-  - first:
-      213: -6982250482568625852
-    second: Boutons_11
-  - first:
-      213: -527739056618326837
-    second: Boutons_12
-  - first:
-      213: -6633374205012380298
-    second: Boutons_13
-  - first:
-      213: 685121526638893319
-    second: Boutons_14
-  - first:
-      213: 7234267623496690652
-    second: Boutons_15
-  - first:
-      213: -8723124043014684422
-    second: icone_nain
+      213: -8207634952136033032
+    second: asset_bouton_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -138,211 +120,232 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: btn_lancer_local
+      name: asset_bouton_0
       rect:
         serializedVersion: 2
-        x: 498
-        y: 1891
-        width: 755
-        height: 371
+        x: 519
+        y: 1864
+        width: 762
+        height: 374
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59980cf95fdd213f0800000000000000
-      internalID: -931438125895349867
+      spriteID: a16361bbcd0d63a40800000000000000
+      internalID: 5347691253999220250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: btn_lancer_ligne
+      name: asset_bouton_1
       rect:
         serializedVersion: 2
-        x: 1354
-        y: 1891
-        width: 754
-        height: 371
+        x: 1382
+        y: 1857
+        width: 762
+        height: 374
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a24929577498ab290800000000000000
-      internalID: -7873830058495667158
+      spriteID: de66b6b3eb470dd70800000000000000
+      internalID: 9065874410286311149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: btn_parametres
+      name: asset_bouton_2
       rect:
         serializedVersion: 2
-        x: 2255
-        y: 1891
-        width: 755
-        height: 371
+        x: 2288
+        y: 1857
+        width: 763
+        height: 374
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e97819f2f3f1e490800000000000000
-      internalID: -7718620061449553440
+      spriteID: 5a440c8cb74b729c0800000000000000
+      internalID: -3951991704252300123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: btn_creer_salon
+      name: asset_bouton_3
       rect:
         serializedVersion: 2
-        x: 498
-        y: 1383
-        width: 755
-        height: 372
+        x: 519
+        y: 1331
+        width: 762
+        height: 374
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 607822ea68d61c6e0800000000000000
-      internalID: -1819052349266426106
+      spriteID: 445d29a1aac73e360800000000000000
+      internalID: 7197733699500299588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: btn_rejoindre_salon
+      name: asset_bouton_4
       rect:
         serializedVersion: 2
-        x: 1352
-        y: 1383
+        x: 1382
+        y: 1344
         width: 756
-        height: 372
+        height: 375
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9948f3ed2b41d6d0800000000000000
-      internalID: -2967508018990134882
+      spriteID: c61d3d54573885b50800000000000000
+      internalID: 6582155395107901804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: btn_quitter
+      name: asset_bouton_5
       rect:
         serializedVersion: 2
-        x: 498
-        y: 869
+        x: 515
+        y: 825
+        width: 763
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef83a129d22a4740800000000000000
+      internalID: 5136956640937086953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset_bouton_6
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 825
         width: 755
-        height: 372
+        height: 374
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff339dcbcabbd73c0800000000000000
-      internalID: -4360122513647651841
+      spriteID: fbd2d35ca7fdfd710800000000000000
+      internalID: 1720339301066943935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: btn_pas_pret
+      name: asset_bouton_7
       rect:
         serializedVersion: 2
-        x: 1352
-        y: 869
-        width: 749
-        height: 372
+        x: 2292
+        y: 823
+        width: 755
+        height: 374
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f308b085543315e20800000000000000
-      internalID: 3337505171781156927
+      spriteID: 177705fb7eb595830800000000000000
+      internalID: 4060377589956507505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: btn_pret
+      name: asset_bouton_8
       rect:
         serializedVersion: 2
-        x: 2255
-        y: 869
-        width: 749
-        height: 372
+        x: 515
+        y: 372
+        width: 766
+        height: 376
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 849345414dcbc6000800000000000000
-      internalID: 30606916544903496
+      spriteID: 86bfae91d28bb4140800000000000000
+      internalID: 4705056739566484328
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icone_geant
+      name: asset_bouton_9
       rect:
         serializedVersion: 2
-        x: 564
-        y: 222
-        width: 302
-        height: 334
+        x: 1377
+        y: 339
+        width: 757
+        height: 376
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e1968eb31793aa10800000000000000
-      internalID: 1919543977246626279
+      spriteID: 2aad94187645037e0800000000000000
+      internalID: -1787836248538621278
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icone_nain
+      name: asset_bouton_10
       rect:
         serializedVersion: 2
-        x: 1102
-        y: 227
-        width: 195
-        height: 295
+        x: 2286
+        y: 336
+        width: 758
+        height: 376
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af0c07466ec31f680800000000000000
-      internalID: -8723124043014684422
+      spriteID: 8fcf9d73f7f981e80800000000000000
+      internalID: -8207634952136033032
       vertices: []
       indices: 
       edges: []
@@ -350,7 +353,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 6de7d148f7f80514f89f99360c02ceab
+    spriteID: 40465e624dd335e478363e49f70b78f1
     internalID: 0
     vertices: []
     indices: 
