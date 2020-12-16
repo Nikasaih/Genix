@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 38448bed0e5d4e246a345815875ef367
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -931438125895349867
+    second: btn_lancer_local
+  - first:
+      213: -7873830058495667158
+    second: btn_lancer_ligne
+  - first:
+      213: -7718620061449553440
+    second: btn_parametres
+  - first:
+      213: -1819052349266426106
+    second: btn_creer_salon
+  - first:
+      213: -2967508018990134882
+    second: btn_rejoindre_salon
+  - first:
+      213: -4360122513647651841
+    second: btn_quitter
+  - first:
+      213: 3337505171781156927
+    second: btn_pas_pret
+  - first:
+      213: 30606916544903496
+    second: btn_pret
+  - first:
+      213: 1919543977246626279
+    second: icone_geant
+  - first:
+      213: 1356947926347697211
+    second: Boutons_9
+  - first:
+      213: 2570987220856415577
+    second: Boutons_10
+  - first:
+      213: -6982250482568625852
+    second: Boutons_11
+  - first:
+      213: -527739056618326837
+    second: Boutons_12
+  - first:
+      213: -6633374205012380298
+    second: Boutons_13
+  - first:
+      213: 685121526638893319
+    second: Boutons_14
+  - first:
+      213: 7234267623496690652
+    second: Boutons_15
+  - first:
+      213: -8723124043014684422
+    second: icone_nain
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: btn_lancer_local
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1891
+        width: 755
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59980cf95fdd213f0800000000000000
+      internalID: -931438125895349867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_lancer_ligne
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1891
+        width: 754
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24929577498ab290800000000000000
+      internalID: -7873830058495667158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_parametres
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 1891
+        width: 755
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e97819f2f3f1e490800000000000000
+      internalID: -7718620061449553440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_creer_salon
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1383
+        width: 755
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607822ea68d61c6e0800000000000000
+      internalID: -1819052349266426106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_rejoindre_salon
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1383
+        width: 756
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9948f3ed2b41d6d0800000000000000
+      internalID: -2967508018990134882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_quitter
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 869
+        width: 755
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff339dcbcabbd73c0800000000000000
+      internalID: -4360122513647651841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_pas_pret
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 869
+        width: 749
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f308b085543315e20800000000000000
+      internalID: 3337505171781156927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_pret
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 869
+        width: 749
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849345414dcbc6000800000000000000
+      internalID: 30606916544903496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icone_geant
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 222
+        width: 302
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1968eb31793aa10800000000000000
+      internalID: 1919543977246626279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icone_nain
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 227
+        width: 195
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0c07466ec31f680800000000000000
+      internalID: -8723124043014684422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6de7d148f7f80514f89f99360c02ceab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
